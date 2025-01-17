@@ -41,7 +41,7 @@ Ainda está bem ***cru***, será usado em outros futuros projetos como uma alter
    ```
 # Contribuições
 
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.;)
 
 ## Autores
 
