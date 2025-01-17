@@ -9,9 +9,26 @@ Ainda está bem ***cru***, será usado em outros futuros projetos como uma alter
 - **Entrada do Usuário**: O usuário pode ***inserir*** um texto e o número de vezes que deseja que esse texto seja repetido.
 - **Compactação**: O arquivo de texto é compactado em um arquivo ZIP, e o tamanho do arquivo original e do arquivo compactado é exibido.
 
+## Novas Funcionalidades:
+
+   - Compactação de Arquivos:
+        - A função compactar_arquivo lê o conteúdo de um arquivo e o compacta.
+        - A função descompactar_arquivo descompacta os dados e os salva em um novo arquivo.
+
+   - Escolha do Usuário:
+        - O usuário pode escolher entre compactar texto ou um arquivo. Dependendo da escolha, o programa executa a lógica apropriada.
+
+   - Verificação de Arquivo:
+        - O código verifica se o caminho do arquivo fornecido pelo usuário é válido antes de tentar compactá-lo.
+
+## Como Usar:
+   - Execute o script e escolha se deseja compactar um texto ou um arquivo.
+   - Para a opção de texto, insira o texto e o número de repetições.
+   - Para a opção de arquivo, forneça o caminho do arquivo que deseja compactar e o caminho onde deseja salvar o arquivo descompactado.
+
+
 ## Melhorias
 
-- Flexibilidade na compactação: terá mais funcionalidades e mais flexibilidade para a compactação de arquivos, podendo compactar: arquivos .txt .docx. pdf. pptx e etc...
 - Interface: talvez tenha uma interface simples para melhorar a usuabilidade do usuário
 - Funções: compactaçoes mais seguras (***criptografar e depois compactar***)
 
