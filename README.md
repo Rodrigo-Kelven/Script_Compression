@@ -1,4 +1,5 @@
 # Projeto de Compactação de Arquivos
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 Este projeto fornece um script que permite ao usuário criar um arquivo de texto contendo um texto repetido um número especificado de vezes e, em seguida, compactar esse arquivo em um formato ZIP.
 O script exibe o tamanho do arquivo original e o tamanho do arquivo compactado, permitindo que o usuário veja a eficiência da compactação.
